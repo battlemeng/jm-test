@@ -1,0 +1,29 @@
+hero:
+  name: anqila
+  word: huoyanshiwozuixihuandeyanse
+  he: 3500
+
+heros:
+  - name: huangzhong
+    word: zuoribeiwoshexihuol
+    hp: 4000
+
+hero_list:
+  - - anqilai
+  - - huangzong
+    - xiaoqiao
+
+hero_list1:
+  - anqilai
+  - huangzong
+  - xiaoqiao
+
+hero_list2:
+  - anqilai
+    huangzong
+    xiaoqiao
+
+hero_list3:
+  - - anqilai
+    - huangzong
+    - xiaoqiao
